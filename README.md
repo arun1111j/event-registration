@@ -150,8 +150,9 @@ text-align: center;
 color: #010101;
 ```
 ## OUTPUT:
-![output](./home.png)
-![output](./login.png)
-![output](./view.png)
+![home page](https://github.com/arun1111j/event-registration/assets/128461833/3a630579-023a-454f-a866-b0c6ccfbded0)
+![login](https://github.com/arun1111j/event-registration/assets/128461833/c2b12b87-436a-4e0e-bb7f-e90587d7cd1a)
+![view](https://github.com/arun1111j/event-registration/assets/128461833/d2cc1fe8-1b4c-4b1c-b9af-7c7c5fb71068)
+
 ## Result:
 The program to design, develop and deploy a web application for event registration is completed successfully.
